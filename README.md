@@ -1,5 +1,6 @@
 # TripleTriadMinion
 ## Please Trial Before Buying
+* Dont start trial until you finish following
 * [Discord](https://discord.com/invite/g8nnzfED2H)
 ## Install
 * Only Windows7-x64 and above are supported
@@ -20,5 +21,9 @@
 * Support adaptive deck, which means any arrange of deck cards is supported(the performance depends on whether the deck is suitable for this npc)
 * Support any kind of rule, support roulette which means it support others  
 * Auto place best movement
+### How It Places the Best:
+* It considers your remaining cards and npc's remaining cards. It will also consider npc's potential cards
+* It optimized all the rules, even "Three Open" is considered(i believe most human treat it as useless, but this will help make npc's potential cards clear)
+* No matter how complex the rules are, it still works, even if there is a npc with four roulette in the future
 ### Notice:
 * For some npcs, you should manually move to him nearby
