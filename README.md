@@ -27,3 +27,4 @@
 * No matter how complex the rules are, it still works, even if there is a npc with four roulette in the future
 ### Notice:
 * For some npcs, you should manually move to him nearby
+* For the special rule: "Sudden Death", the bot may place the card very slow. It's to avoid death loop, in case all the game result comes to draw. You can simply ignore it, the bot will keep running and it will happen really rarely.
