@@ -4,7 +4,6 @@
 * [Discord](https://discord.com/invite/g8nnzfED2H)
 ## Install
 * Only Windows7-x64 and above are supported
-* Need [.Net6.0 Runtime](https://dotnet.microsoft.com/download/dotnet/6.0)
 * Need MadaoCore,MadaoCombat,KumimaCore
 * Download [Release](https://github.com/Kumima/TripleTriadMinion/releases)
 * Unzip and put all files into C:\MINIONAPP\Bots\FFXIVMinion64\LuaMods\KumimaCore\TripleTriadTask
